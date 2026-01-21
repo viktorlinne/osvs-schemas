@@ -7,3 +7,4 @@ export * from "./paymentsSchema";
 export * from "./postsSchema";
 export * from "./rolesSchema";
 export * from "./usersSchema";
+export * from "./officialsSchema";
